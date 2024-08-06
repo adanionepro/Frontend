@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d9dd71f.css",
+    "main.js": "/static/js/main.afb7b2ba.js",
+    "static/js/206.e68b42e4.chunk.js": "/static/js/206.e68b42e4.chunk.js",
+    "static/media/confetti.gif": "/static/media/confetti.7c0c557e1222b6d18b66.gif",
+    "static/media/banner1_bg.png": "/static/media/banner1_bg.19f8ddaf0bbaf52d3360.png",
+    "static/media/book_bg.png": "/static/media/book_bg.b0bd7d0bf11002072ffa.png",
+    "static/media/hotel.png": "/static/media/hotel.0d72d545731cb9f28ae1.png",
+    "static/media/book_img.png": "/static/media/book_img.f0e932c8c4aff2dfc1b9.png",
+    "static/media/over_bg.png": "/static/media/over_bg.54f4561df3e9273a2994.png",
+    "static/media/banner3_img.png": "/static/media/banner3_img.695bbd573fd938bbcba7.png",
+    "static/media/bg_blue.png": "/static/media/bg_blue.0797b3f0f1db8c2e6c13.png",
+    "static/media/bonus_bg.png": "/static/media/bonus_bg.0736ab803bec7a71e23e.png",
+    "static/media/outdoor_bg.png": "/static/media/outdoor_bg.46a12a7f2c3676326c7e.png",
+    "static/media/book_now_bg.png": "/static/media/book_now_bg.7b8084db490179b7d42f.png",
+    "static/media/top_hotels_3.png": "/static/media/top_hotels_3.fef7f7485ea713e6d7c8.png",
+    "static/media/top_hotels_6.png": "/static/media/top_hotels_6.d0f8b22a495b5f648dbb.png",
+    "static/media/top_hotels_5.png": "/static/media/top_hotels_5.f6af9a903e212a6cb389.png",
+    "static/media/top_hotels.png": "/static/media/top_hotels.7a6670e9210884b24e8c.png",
+    "static/media/top_hotels_7.png": "/static/media/top_hotels_7.263191cb69e2180254d9.png",
+    "static/media/top_hotels_2.png": "/static/media/top_hotels_2.b0d7c7dc18f86a91749a.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/top_hotels_4.png": "/static/media/top_hotels_4.3011a9b33c58019e18b1.png",
+    "static/media/top_hotels_1.png": "/static/media/top_hotels_1.b4668a3f9d9738baceff.png",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/bonus_head.png": "/static/media/bonus_head.be8abbe0ec6868e14222.png",
+    "static/media/whatsapp_btn.png": "/static/media/whatsapp_btn.48bd248c6a7bf2e8a060.png",
+    "static/media/telegram_btn.png": "/static/media/telegram_btn.fc858c04ef854cc90d9a.png",
+    "static/media/home-facility-logo.png": "/static/media/home-facility-logo.814d78d689141ecae403.png",
+    "static/media/logo2.svg": "/static/media/logo2.7a2aefc7554048c5701e059b7efded96.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.6d9dd71f.css",
+    "static/js/main.afb7b2ba.js"
+  ]
+}
